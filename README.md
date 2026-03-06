@@ -62,7 +62,7 @@ The following visualizations and metrics were used:
   Used to evaluate product category and mall performance. Clothing consistently performs best and generates the highest revenue across malls.
 
 - **Water Fall**  
-  Used to show how Top Category Impact Overall Performance
+  Used to show how Top Category Impact Overall Performance.
 
 - **Data Modelling**  
   

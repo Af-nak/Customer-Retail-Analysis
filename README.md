@@ -1,4 +1,7 @@
-# Retail Sales Performance Analysis
+# Customer Retail Sales Performance Analysis
+A Power BI retail analytics project demonstrating data cleaning, modeling, visualization, and insight generation to translate raw sales data into meaningful business insights.
+
+![Customer Retail Dashboard Overview](images/Dasboard_1.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -60,6 +63,9 @@ The following visualizations and metrics were used:
 
 - **Water Fall**  
   Used to show how Top Category Impact Overall Performance
+
+- **Data Modelling**  
+  
   
 
 ## Key Insights
@@ -68,8 +74,10 @@ The following visualizations and metrics were used:
 - Female shoppers dominate purchasing activity, contributing 59.7% of total sales.
 - Cash is the most preferred payment method.
 - Millennials (under 44) are the most active shoppers, while Boomers represent the smallest segment.
-- Clothing is the highest revenue-generating product category across all malls.
+- Clothing is the highest revenue-generating product category across all malls and Souvenir generating the Lowest revenue.
 - Istanbul is the top-performing mall in terms of overall sales and revenue.
+
+![Customer Retail Dashboard Insight](images/Dashboard_2.png)
 
 
 ## Business Value
@@ -89,6 +97,5 @@ This analysis helps stakeholders:
 
 ---
 
-## Dashboard Preview
-
-- ![Retail Sales Dashboard Overview](images/Dashboard_1.png)
+## Dashboard Preview on Web
+[Customer Retail Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmM4NTlkY2YtMzdkMy00MjVlLTgxNjAtZTVhOTg3MTk3ZGU3IiwidCI6Ijg0ZGZiOGY5LWYzMTItNDk1NC05ZTk5LWYzZjcxMTgzZDZmMSJ9)
